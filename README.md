@@ -1,5 +1,4 @@
-# Assignment
+# Simple Interest Calculator
 
-## editing the file
-
-Its a markdown file in this repository.
+This is a template project to implement simple interest calculator using html5, css3 and javascript.
+What you get here is a scafolding for the project, which you are expected to complete.
